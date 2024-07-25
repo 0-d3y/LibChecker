@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/0-d3y/LibChecker/main/logo.png)
 
-# LibChecker - Logo
+# LibChecker - Termux 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PHP](https://img.shields.io/badge/php-7.4%2B-blue.svg)](https://www.php.net/downloads)
