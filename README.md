@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/0-d3y/Shells-0.d3y/main/Shells-0.d3y.jpg)
+![logo](https://raw.githubusercontent.com/0-d3y/LibChecker/main/logo.jpg)
 
 # LibChecker - Logo
 
@@ -47,7 +47,7 @@ python main.py
 ~ **Supported Operating Systems**
 **Termux on Android:** Designed to work seamlessly within Termux, a Linux environment for Android.
 
-** Usage**
+**Usage**
 **• System Update and Upgrade:**
 
 The script will automatically update and upgrade system packages.
