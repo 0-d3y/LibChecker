@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/0-d3y/LibChecker/main/logo.png)
+![logo](https://raw.githubusercontent.com/0-d3y/LibChecker/main/logo.jpg)
 
 # LibChecker - Logo
 
@@ -48,11 +48,12 @@ python main.py
 **Termux on Android:** Designed to work seamlessly within Termux, a Linux environment for Android.
 
 **Usage**
+
 **• System Update and Upgrade:**
 
 The script will automatically update and upgrade system packages.
 
-** • Library Check and Installation:**
+**• Library Check and Installation:**
 
 The script will check if each library from the provided list is installed. If not, it will attempt to install it.
 
