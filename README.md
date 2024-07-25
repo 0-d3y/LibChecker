@@ -23,7 +23,7 @@
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/yourusername/LibChecker.git
+   git clone https://github.com/0-d3y/LibChecker.git
    cd LibChecker
    ```
    
