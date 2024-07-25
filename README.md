@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/0-d3y/LibChecker/main/logo.jpg)
+![logo](https://raw.githubusercontent.com/0-d3y/LibChecker/main/logo.logo)
 
 # LibChecker - Logo
 
