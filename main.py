@@ -39,7 +39,7 @@ def run_command(command, check=True):
 def update_and_upgrade():
     print(Colors.WHITE + "[ + ] Updating and upgrading system packages..." + Colors.RESET)
     run_command('pkg update -y')
-    run_command('pkg upgrade -y')
+    run_command('pkg update --fix-missing && pkg --fix-broken install && dpkg --configure -a && pkg install --reinstall pkg && ')
 
 def install_package(package_name):
     try:
